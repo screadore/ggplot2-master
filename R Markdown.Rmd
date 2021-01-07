@@ -1,0 +1,81 @@
+---
+title: "Tutorial for ggplot2 master"
+author: "Stefan G. Creadore"
+date: "1/7/2021"
+output: html_document
+purpose: To provide a comprehensive list of the code required to use ggplot2.
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### R Markdown ###
+
+## Plots Included ##
+
+
+# Correlation #
+
+1) Scatterplot
+
+2) Scatterplot with Encircling
+
+3) Jitter Plot
+
+4) Counts Chart
+
+5) Bubble Plot
+
+6) Animated bubble chart
+
+7) Marginal Histogram/Boxplot
+
+
+# Deviation #
+
+8) Diverging Bars
+
+9) Diverging Lollipop Chart
+
+10) Diverging Dot Plot
+
+11) Area Chart
+
+
+# Ranking #
+
+12) Ordered Bar Chart
+
+13) Lollipop Chart
+
+14) Dot Plot
+
+15) Slope Chart
+
+16) Dumbbell Plot
+
+
+# Distribution #
+
+17) Histogram
+
+18) Histogram on Categorical Variable
+
+19) Density Plot
+
+20) Box Plot
+
+21) Dot + Box Plot
+
+22) Tufte Boxplot
+
+23) Violin Plot
+
+24) Population Pyramid
+
+
+## Disclaimer ##
+
+# I do not claim to own this code or any of the components. My only contribution includes compiling a comprehensive list of the different types of functionalities and their usage code to facilitate scientific research and data analysis.
